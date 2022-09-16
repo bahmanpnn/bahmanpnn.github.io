@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## A New Post
+
 [projects]({{site.baseurl}}/files/eshop_project.zip "eshop_project")
 ![eshop_project_image]({{site.baseurl}}/files/upload_images/eshop_project_image.png)
 
