@@ -14,4 +14,3 @@ i am 23 years old and have a software engineer bachelor degree from IAUG and liv
 ### Contact me
 
 [bahmanpn@gmail.com](mailto:email@domain.com)
-[t.me/bahmanpnn]
